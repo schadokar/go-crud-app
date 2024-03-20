@@ -56,7 +56,7 @@ This project is licensed under the [MIT License](https://github.com/schadokar/go
 Special thanks to the creators and maintainers of Chi Router and SQLite3 Driver for their invaluable contributions.
 
 #### Contact:
-For any inquiries or feedback, please reach out to [Shubham](mailto:shubham@schadokar.dev).
+For any inquiries or feedback, please reach out to [Shubham](https://schadokar.dev).
 
 Connect here:
 - [Youtube Practicego](https://youtube.com/@practicego)
