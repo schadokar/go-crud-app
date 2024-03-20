@@ -50,7 +50,7 @@ DB_NAME="TestDB"
 Contributions are welcome! Please open an issue or submit a pull request with any enhancements or fixes.
 
 #### License:
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](https://github.com/schadokar/go-crud-app?tab=MIT-1-ov-file).
 
 #### Acknowledgments:
 Special thanks to the creators and maintainers of Chi Router and SQLite3 Driver for their invaluable contributions.
